@@ -1,2 +1,2 @@
-# AspNetReactReduxApp
+# AspNetReactReduxAppServer
 研修
