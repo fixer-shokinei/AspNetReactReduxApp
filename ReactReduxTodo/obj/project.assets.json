@@ -11952,11 +11952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\reactApp\\AspNetReactReduxTodo-master\\ReactReduxTodo\\ReactReduxTodo.csproj",
+      "projectUniqueName": "C:\\Projects\\Server\\ReactReduxTodo\\ReactReduxTodo.csproj",
       "projectName": "ReactReduxTodo",
-      "projectPath": "C:\\reactApp\\AspNetReactReduxTodo-master\\ReactReduxTodo\\ReactReduxTodo.csproj",
+      "projectPath": "C:\\Projects\\Server\\ReactReduxTodo\\ReactReduxTodo.csproj",
       "packagesPath": "C:\\Users\\sho.kinei\\.nuget\\packages\\",
-      "outputPath": "C:\\reactApp\\AspNetReactReduxTodo-master\\ReactReduxTodo\\obj\\",
+      "outputPath": "C:\\Projects\\Server\\ReactReduxTodo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

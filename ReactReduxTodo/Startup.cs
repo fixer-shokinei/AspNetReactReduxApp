@@ -93,7 +93,7 @@ namespace ReactReduxTodo
                 spaBranch.UseSpaStaticFiles();
                 spaBranch.UseSpa(spa =>
                 {
-                    spa.Options.SourcePath = "ClientApp/build";
+                    spa.Options.SourcePath = "Front/build";
                 });
             });
         }
