@@ -3,16 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
-<<<<<<< HEAD
     <RuntimeFrameworkVersion>2.1.0</RuntimeFrameworkVersion>
     <PlatformTarget>AnyCPU</PlatformTarget>
-=======
-<<<<<<< HEAD
-    <RuntimeFrameworkVersion>2.1.0</RuntimeFrameworkVersion>
-    <PlatformTarget>AnyCPU</PlatformTarget>
-=======
->>>>>>> 7f30feb746afd8688bc59e2909c48d28fd0308de
->>>>>>> bba17aaf991cf412e37533c66b1adc615d1c40a5
     <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
     <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
     <IsPackable>false</IsPackable>
